@@ -1,0 +1,66 @@
+.u-section-1 {
+  background-image: none;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 809px;
+}
+
+.u-section-1 .u-custom-html-1 {
+  min-height: 111px;
+  height: auto;
+  margin: 60px 410px 0;
+}
+
+.u-section-1 .u-image-1 {
+  width: 173px;
+  height: 173px;
+  background-image: url("images/ezgif.com-gif-maker2.gif");
+  background-position: 50% 50%;
+  margin: 16px auto 60px 484px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-custom-html-1 {
+    width: 570px;
+    margin-right: 157px;
+    margin-left: 213px;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-left: 157px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-custom-html-1 {
+    margin-left: 75px;
+    margin-right: 75px;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-left: 132px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-custom-html-1 {
+    width: 540px;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-left: 257px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-custom-html-1 {
+    width: 340px;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-left: 157px;
+  }
+}
