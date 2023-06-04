@@ -38,9 +38,7 @@
   .u-section-1 .u-image-1 {
     margin-left: auto;
     margin-right: auto;
-    max-width: 100%;
-    height: auto;
-    width: auto;
+    background-size:100% auto;
   }
 }
 
@@ -53,9 +51,7 @@
   .u-section-1 .u-image-1 {
     margin-left: auto;
     margin-right: auto;
-    max-width: 100%;
-    height: auto;
-    width: auto;
+    background-size:80% auto;
   }
 }
 
@@ -67,11 +63,9 @@
   }
 
   .u-section-1 .u-image-1 {
-    max-width: 100%;
-    height: auto;
-    width: auto;
     margin-left: auto;
     margin-right: auto;
+    background-size:75% auto;
   }
 }
 
@@ -81,10 +75,8 @@
   }
 
   .u-section-1 .u-image-1 {
-    max-width: 100%;
-    height: auto;
-    width: auto;
     margin-left: auto;
     margin-right: auto;
+    background-size:60% auto;
   }
 }
