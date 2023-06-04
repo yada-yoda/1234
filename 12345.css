@@ -13,9 +13,8 @@
 }
 
 .u-section-1 .u-image-1 {
-  /*width: 830px;
-  height: 350px;*/
-  background-size:100% auto;
+  width: 830px;
+  height: 350px;
   background-image: url("images/monsterhq-1c2.png");
   background-repeat: no-repeat;
   background-position: 0% 50%;
@@ -33,8 +32,8 @@
 @media (max-width: 1199px) {
   .u-section-1 .u-custom-html-1 {
     width: 570px;
-    margin-right: 157px;
-    margin-left: 213px;
+    margin-right: 10px; /*157px*/
+    margin-left: 10px; /*213px*/
   }
 
   .u-section-1 .u-image-1 {
