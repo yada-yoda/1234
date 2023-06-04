@@ -13,9 +13,11 @@
 }
 
 .u-section-1 .u-image-1 {
-  width: 830px;
-  height: 350px;
+  /*width: 830px;
+  height: 350px;*/
+  background-size:100% auto;
   background-image: url("images/monsterhq-1c2.png");
+  background-repeat: no-repeat;
   background-position: 0% 50%;
   margin: auto auto auto auto;
 }
@@ -39,6 +41,7 @@
     margin-left: auto;
     margin-right: auto;
     background-size:100% auto;
+    background-repeat: no-repeat;
   }
 }
 
@@ -52,6 +55,7 @@
     margin-left: auto;
     margin-right: auto;
     background-size:80% auto;
+    background-repeat: no-repeat;
   }
 }
 
@@ -66,6 +70,7 @@
     margin-left: auto;
     margin-right: auto;
     background-size:75% auto;
+    background-repeat: no-repeat;
   }
 }
 
@@ -78,5 +83,6 @@
     margin-left: auto;
     margin-right: auto;
     background-size:50% auto;
+    background-repeat: no-repeat;
   }
 }
