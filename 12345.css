@@ -55,11 +55,13 @@
   .u-section-1 .u-image-1 {
     margin-left: auto;
     margin-right: auto;
+    width: 415px;
+    height: 175px;
     background-image: url("images/monsterhq-1c.png");
-      /*  background-position: 50% 50%;*/
+      /*  background-position: 50% 50%;
     width: auto ;
     max-width: 100% ;
-    height: auto ;
+    height: auto ; */
   }
 }
 
