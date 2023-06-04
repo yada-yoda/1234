@@ -17,7 +17,7 @@
   height: 350px;
   background-image: url("images/monsterhq-1c.png");
   background-position: 50% 50%;
-  margin: 16px auto 25px auto;
+  margin: auto auto auto auto;
 }
 
 /*  .u-section-1 .u-image-1 {
@@ -38,11 +38,6 @@
   .u-section-1 .u-image-1 {
     margin-left: auto;
     margin-right: auto;
-    background-image: url("images/monsterhq-1c.png");
-     /*  background-position: 50% 50%; */
-    width: auto ;
-    max-width: 100% ;
-    height: auto ;
   }
 }
 
@@ -55,13 +50,6 @@
   .u-section-1 .u-image-1 {
     margin-left: auto;
     margin-right: auto;
-    width: 415px;
-    height: 175px;
-    background-image: url("images/monsterhq-1c.png");
-      /*  background-position: 50% 50%;
-    width: auto ;
-    max-width: 100% ;
-    height: auto ; */
   }
 }
 
@@ -75,11 +63,6 @@
   .u-section-1 .u-image-1 {
     margin-left: auto;
     margin-right: auto;
-    background-image: url("images/monsterhq-1c.png");
-    /* background-position: 50% 50%; */
-    width: auto ;
-    max-width: 100% ;
-    height: auto ;
   }
 }
 
@@ -91,10 +74,5 @@
   .u-section-1 .u-image-1 {
     margin-left: auto;
     margin-right: auto;
-    background-image: url("images/monsterhq-1c.png");
-      /*  background-position: 50% 50%; */
-    width: auto ;
-    max-width: 100% ;
-    height: auto ;
   }
 }
