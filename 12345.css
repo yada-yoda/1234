@@ -13,12 +13,20 @@
 }
 
 .u-section-1 .u-image-1 {
+  width: 830px;
+  height: 350px;
+  background-image: url("images/monsterhq-1c.png");
+  background-position: 50% 50%;
+  margin: 16px auto 60px 484px;
+}
+
+/*  .u-section-1 .u-image-1 {
   width: 173px;
   height: 173px;
   background-image: url("images/ezgif.com-gif-maker2.gif");
   background-position: 50% 50%;
   margin: 16px auto 60px 484px;
-}
+} */
 
 @media (max-width: 1199px) {
   .u-section-1 .u-custom-html-1 {
